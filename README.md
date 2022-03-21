@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LucasHeitorPirola
 - 👀 I’m interested in become the greatest developer of all.
-- 🌱 I’m currently learning web development, HTML5, CSS3, JS and Git, of course, hahaha.
+- 🌱 I’m currently learning web development (HTML5, CSS3, JS) with React and Node, as well as  database management (MySQL, SQL) and HTTPS!. (UPDATED)
 - 💞️ I’m looking to collaborate with big companies where I can do my work happily and let my mark.
-- 📫 How to reach me: lucas_heitor_pirola@hotmail.com or www.linkedin.com/in/desenvolvimentowebetraducoes.
+- 📫 How to reach me: lucasheitorpirola@gmail.com or www.linkedin.com/in/desenvolvimentowebetraducoes.
 
 
 <!---
